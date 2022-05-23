@@ -1,9 +1,1 @@
-remote_theme: just-the-docs/just-the-docs
-markdown: kramdown
-math_engine: katex
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      math: "katex"
+remote_theme: mmistakes/minimal-mistakes
