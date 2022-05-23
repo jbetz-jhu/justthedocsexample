@@ -1,3 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
+
+search: true
+search_full_content: true
+
 plugins:
   - jekyll-include-cache
